@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# project
+bin
+edge
+*.swp
+*.pdf
